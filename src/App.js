@@ -1,4 +1,3 @@
-import "../src/test.scss";
 import Directory from "./components/directory/DirectoryComponent";
 
 const App = () => {
